@@ -1,0 +1,49 @@
+CustomerID,Age,Gender,Tenure,MonthlyCharges,ContractType,InternetService,TotalCharges,TechSupport,Churn
+1,49,Male,4,88.35,Month-to-Month,Fiber Optic,353.4,Yes,Yes
+2,43,Male,0,36.67,Month-to-Month,Fiber Optic,0.0,Yes,Yes
+3,51,Female,2,63.79,Month-to-Month,Fiber Optic,127.58,No,Yes
+4,60,Female,8,102.34,One-Year,DSL,818.72,Yes,Yes
+5,42,Male,32,69.01,Month-to-Month,,2208.32,No,Yes
+6,42,Female,16,119.75,Two-Year,DSL,1916.0,Yes,Yes
+7,60,Male,14,80.32,One-Year,,1124.48,No,Yes
+8,52,Female,6,58.9,One-Year,,353.4,No,Yes
+9,40,Female,53,49.81,Two-Year,Fiber Optic,2639.93,Yes,No
+10,50,Female,10,61.55,Month-to-Month,Fiber Optic,615.5,Yes,Yes
+11,40,Female,1,63.53,Month-to-Month,Fiber Optic,63.53,Yes,Yes
+12,40,Female,19,36.18,One-Year,Fiber Optic,687.42,Yes,No
+13,47,Male,2,63.26,Two-Year,,126.52,No,Yes
+14,25,Female,8,71.78,One-Year,,574.24,No,Yes
+15,27,Male,14,95.05,Month-to-Month,Fiber Optic,1330.7,Yes,Yes
+16,39,Female,41,89.11,Two-Year,Fiber Optic,3653.51,Yes,No
+17,34,Female,13,93.79,Month-to-Month,,1219.27,No,Yes
+18,48,Female,24,30.75,Two-Year,,738.0,No,Yes
+19,35,Male,98,49.59,Two-Year,Fiber Optic,4859.82,Yes,No
+20,30,Female,2,89.55,Month-to-Month,Fiber Optic,179.1,No,Yes
+21,59,Female,6,73.56,One-Year,DSL,441.36,No,Yes
+22,42,Female,10,30.48,Month-to-Month,,304.8,No,Yes
+23,45,Male,10,102.4,Month-to-Month,DSL,1024.0,Yes,Yes
+24,30,Male,10,99.55,One-Year,Fiber Optic,995.5,Yes,Yes
+25,39,Male,47,79.36,One-Year,DSL,3729.92,Yes,No
+26,46,Male,25,35.98,Two-Year,DSL,899.5,Yes,No
+27,33,Female,18,98.99,One-Year,Fiber Optic,1781.82,Yes,No
+28,48,Male,7,82.53,Month-to-Month,,577.71,No,Yes
+29,38,Female,34,100.38,Two-Year,DSL,3412.92,Yes,Yes
+30,42,Male,62,97.66,Two-Year,Fiber Optic,6054.92,Yes,No
+31,38,Male,34,102.27,Month-to-Month,DSL,3477.18,No,Yes
+32,63,Female,0,76.62,Two-Year,DSL,0.0,Yes,Yes
+33,44,Female,20,42.63,Month-to-Month,Fiber Optic,852.6,Yes,Yes
+34,34,Female,1,90.4,Two-Year,Fiber Optic,90.4,Yes,Yes
+35,53,Female,5,85.84,Month-to-Month,DSL,429.2,Yes,Yes
+36,32,Female,1,96.8,Month-to-Month,Fiber Optic,96.8,No,Yes
+37,47,Male,18,45.29,Month-to-Month,DSL,815.22,Yes,Yes
+38,25,Female,23,47.55,One-Year,Fiber Optic,1093.65,Yes,No
+39,31,Female,2,110.14,Month-to-Month,,220.28,No,Yes
+40,46,Female,9,97.5,Month-to-Month,,877.5,No,Yes
+41,52,Male,12,111.74,One-Year,Fiber Optic,1340.88,Yes,Yes
+42,46,Female,9,98.28,Two-Year,Fiber Optic,884.52,Yes,Yes
+43,43,Male,2,83.74,Month-to-Month,,167.48,No,Yes
+44,41,Male,10,88.87,Month-to-Month,DSL,888.7,Yes,Yes
+45,30,Male,27,110.02,Month-to-Month,,2970.54,No,Yes
+46,37,Male,1,82.09,Month-to-Month,,82.09,No,Yes
+47,40,Female,1,86.92,Two-Year,DSL,86.92,Yes,Yes
+48,55,Female,8,44.08,Two-Year,DSL,352.64,No,Yes
