@@ -1,5 +1,5 @@
 
-#**first we will import all the libraries we need**
+#first we will import all the libraries we need
 
 import pandas as pd
 import numpy as np
