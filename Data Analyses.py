@@ -1,19 +1,12 @@
 
-# *Data Analyses*.  
- 1. Descriptive Analysis
- 2.Distribution of categorical variables
- 3.Build a logistic regression or decision tree model to predict churn
-"""
-
-#first we will import all the libraries we need
+#**first we will import all the libraries we need**
 
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# We will just read the head so we will have the idea what kind of data we have,
-# althought you always read the data carefully
+# We will just read the head so we will have the idea what kind of data we have, althought you always read the data carefully
 
 data = pd.read_csv("/content/Datacsv")
 print(data.head())
